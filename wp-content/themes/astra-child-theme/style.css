@@ -29,3 +29,57 @@ body {
     color: #4faed1;
 
 }
+
+/*Forside øvre titel*/
+.elementor-2508 .elementor-element.elementor-element-65fa637 .elementor-heading-title {
+    color: #4FAED1;
+    width: 300%;
+    margin-left: -55%;
+}
+
+/*Forside øvre tekst*/
+#forsidetekst {
+    margin-bottom: 1.6em;
+    width: 140%;
+    margin-left: -28%;
+}
+
+/*Jeg vil tekst*/
+.elementor-2508 .elementor-element.elementor-element-3a97f0e .elementor-heading-title {
+    color: #E65100;
+    margin-left: -20%;
+}
+
+
+/*Tage billeder knap*/
+
+.elementor-2508 .elementor-element.elementor-element-1abf181 .elementor-button {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #E65100;
+    margin-left: -20%;
+}
+
+
+
+/*Logo knap*/
+.elementor-2508 .elementor-element.elementor-element-24256be .elementor-button {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #E65100;
+    margin-left: -60%;
+
+}
+
+/*Farve knap*/
+.elementor-2508 .elementor-element.elementor-element-31ad742 .elementor-button {
+    background-color: #E65100;
+    margin-left: -12%;
+    width: 50%;
+}
+
+/*Optage video knap*/
+.elementor-2508 .elementor-element.elementor-element-e08e2b9 .elementor-button {
+    background-color: #E65100;
+    margin-left: -60%;
+}
