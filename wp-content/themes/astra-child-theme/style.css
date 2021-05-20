@@ -5,7 +5,7 @@
  Author:       Anders Matthiesen
  Author URI:   http://andersdem.dk
  Template:     astra
- Version:      1.2.1
+ Version:      1.2.2
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
@@ -40,8 +40,8 @@ body {
 /*Forside øvre tekst*/
 #forsidetekst {
     margin-bottom: 1.6em;
-    width: 140%;
-    margin-left: -28%;
+    width: 150%;
+    margin-left: -18%;
 }
 
 /*Jeg vil tekst*/
@@ -84,9 +84,8 @@ body {
     margin-left: -60%;
 }
 
-
 /*Farvekode kopierings funktion*/
 a,
 .page-title {
-    color: mediumspringgreen;
+    color: black;
 }
